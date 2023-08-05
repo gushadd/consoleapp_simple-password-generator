@@ -1,4 +1,8 @@
-﻿namespace Gerador_de_Senhas___Password_Generator;
+//This is a simple password generator. The program asks the size the user wants for their password,
+//and it generates a password using lowercase and uppercase letters, as well as digits and special 
+//characters.
+
+namespace Gerador_de_Senhas___Password_Generator;
 using System;
 class Program
 {
